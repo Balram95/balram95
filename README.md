@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balram95&label=Profile%20views&color=0e75b6&style=flat" alt="balram95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balram95" alt="balram95" /></a> </p>
-
 - 🔭 I’m currently working on [Vault ERP](https://www.vault-erp.com/)
 
 - 🌱 I’m currently learning **System Design**
